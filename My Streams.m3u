@@ -137,7 +137,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3k0xx/xgBe3iirqyoHIKnw", "kid":"eKtk+pDxN6aXdDtdwnsvlg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="403626" tvg-name="USA Network" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/3DiKUR2.png",USA Network
+#EXTINF:-1 tvg-id="403626" tvg-name="USA Network" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://ibb.co/zh6gbBWn",USA Network
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
