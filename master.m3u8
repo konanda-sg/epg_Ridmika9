@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# Video
+#EXT-X-STREAM-INF:BANDWIDTH=1055788,CODECS="avc1.64001f",RESOLUTION=1280x720
+https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/e567b5f6-0ed0-4693-b6f0-ed424c904f36:CHS/variant/64db760370bf83fbb36cdf70f03e8348/bandwidth/1055788.m3u8
+
+# Audio
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Default",DEFAULT=YES,AUTOSELECT=YES,URI="https://dai.google.com/linear/hls/pa/event/ydKcHHYQSt27vbSP38xMVw/stream/e567b5f6-0ed0-4693-b6f0-ed424c904f36:CHS/variant/5d0ff86f1a3a586bfc68f141042cfb26/bandwidth/000.m3u8"
