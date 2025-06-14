@@ -237,3 +237,6 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="403527" tvg-logo="https://iili.io/3NTt7oB.png" group-title="HD SPORTS",NBC
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
+#EXTINF:-1 tvg-id="ch285" tvg-name="Channel 285" tvg-logo="" group-title="HD SPORTS",DAZN NBA
+http://de.troya.info:34000/ch285/mono.m3u8?token=franksch.cHXL64m40Q9o_nDB0N_fSzaePXl2ucmlx0TxcKpNLvXYq8kGCd-iC9JWdGUiK9X4
