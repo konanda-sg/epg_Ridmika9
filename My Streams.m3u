@@ -238,8 +238,3 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="403527" tvg-logo="https://iili.io/3NTt7oB.png" group-title="HD SPORTS",NBC
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-id="ch285" tvg-name="Channel 285" tvg-logo="" group-title="HD SPORTS",ESPN
-https://lima.crackstreamslivehd.com/espn_nl1/tracks-v1a1/mono.m3u8?ip=167.172.77.142&token=778bc03ffc09ff3b7d1ef3335c69261116764e39-7e-1749947915-1749915515
-
-#EXTINF:-1 tvg-id="ch285" tvg-name="Channel 285" tvg-logo="" group-title="HD SPORTS",Sky Sports Football
-https://32tech0steam0dp01.org/live/UK_SkySportsFootballFHD/chunks.m3u8?token=null
