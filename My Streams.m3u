@@ -238,5 +238,10 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="403527" tvg-logo="https://iili.io/3NTt7oB.png" group-title="HD SPORTS",NBC
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-id="ch285" tvg-name="Channel 285" tvg-logo="https://iili.io/FBcv0AX.png" group-title="HD SPORTS",DAZN
+#EXTINF:-1 tvg-id="ch285" tvg-name="Channel 285" tvg-logo="" group-title="HD SPORTS",Channel 5
 https://fastdribble.lol/live/foot1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="test" tvg-name="" tvg-logo="https://iili.io/FBcv0AX.png" group-title="HD SPORTS",DAZN
+#EXTVLCOPT:http-referrer=https://lchd.pages.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/6c589385fb89fa5d0a87055dff33c06d.m3u8
