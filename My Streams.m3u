@@ -238,3 +238,5 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="403527" tvg-logo="https://iili.io/3NTt7oB.png" group-title="HD SPORTS",NBC
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
+#EXTINF:-1 tvg-id="ch285" tvg-name="Channel 285" tvg-logo="https://iili.io/FBcv0AX.png" group-title="HD SPORTS",DAZN
+https://fastdribble.lol/live/foot1/chunks.m3u8
