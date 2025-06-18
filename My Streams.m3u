@@ -238,10 +238,12 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="403527" tvg-logo="https://iili.io/3NTt7oB.png" group-title="HD SPORTS",NBC
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-id="ch285" tvg-name="Channel 285" tvg-logo="" group-title="HD SPORTS",Channel 5
+#EXTINF:-1 tvg-id="ch285" tvg-name="Channel 285" tvg-logo="https://iili.io/Fnptapf.png" group-title="HD SPORTS",Channel 5
 https://fastdribble.lol/live/foot1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="test" tvg-name="" tvg-logo="https://iili.io/FBcv0AX.png" group-title="HD SPORTS",DAZN
-#EXTVLCOPT:http-referrer=https://lchd.pages.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
-https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/6c589385fb89fa5d0a87055dff33c06d.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8eb0f152c6e429ca7a53f399aadf257:c593c2eeea62742285b99e4d87b1c84a
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="403527" tvg-logo="https://iili.io/FBcv0AX.png" group-title="HD SPORTS",DAZN
+https://dca-co-live-gcr.gcdn.co/vutzch9c7ip91itgc3bz5f938/tv/stream.mpd
