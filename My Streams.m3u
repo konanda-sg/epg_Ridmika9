@@ -246,4 +246,4 @@ https://fastdribble.lol/live/foot1/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a8eb0f152c6e429ca7a53f399aadf257:c593c2eeea62742285b99e4d87b1c84a
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="403527" tvg-logo="https://iili.io/FBcv0AX.png" group-title="HD SPORTS",DAZN
-https://dca-co-live-gcr.gcdn.co/vutzch9c7ip91itgc3bz5f938/tv/stream.mpd
+https://dca-co-live-gcr.gcdn.co/vutzch9c7ip91itgc3bz5f938/tv/stream.mpd?channel=1658&outlet=dazn-row&plang=en
