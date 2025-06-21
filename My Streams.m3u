@@ -247,3 +247,12 @@ https://fastdribble.lol/live/foot1/chunks.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id="403527" tvg-logo="https://iili.io/FBcv0AX.png" group-title="HD SPORTS",DAZN
 https://dca-co-live-gcr.gcdn.co/vutzch9c7ip91itgc3bz5f938/tv/stream.mpd?channel=1658&outlet=dazn-row&plang=en
+
+#EXTINF:-1 tvg-id="ITV2" tvg-name="ITV 2" tvg-logo="https://iili.io/Fz1VmLG.png" group-title="UK Entertainment",ITV 2
+https://cachehsi1a.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+
+#EXTINF:-1 tvg-id="ITV3" tvg-name="ITV 3" tvg-logo="https://iili.io/Fz1VDIn.png" group-title="UK Entertainment",ITV 3
+https://cachehsi1a.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+
+#EXTINF:-1 tvg-id="ITV4" tvg-name="ITV 4" tvg-logo="https://iili.io/Fz1VZmX.png" group-title="UK Entertainment",ITV 4
+https://cachehsi1a.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
