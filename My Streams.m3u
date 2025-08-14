@@ -248,11 +248,50 @@ https://fastdribble.lol/live/foot1/chunks.m3u8
 #EXTINF:-1 tvg-id="403527" tvg-logo="https://iili.io/FBcv0AX.png" group-title="HD SPORTS",DAZN
 https://dca-co-live-gcr.gcdn.co/vutzch9c7ip91itgc3bz5f938/tv/stream.mpd?channel=1658&outlet=dazn-row&plang=en
 
-#EXTINF:-1 tvg-id="ITV2" tvg-name="ITV 2" tvg-logo="https://iili.io/Fz1VmLG.png" group-title="UK Entertainment",ITV 2
-https://cachehsi1a.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:-1 tvg-id="Discovery_Channel" tvg-logo="https://iili.io/FtPZo6Q.png" group-title="Education",Discovery Channel
+http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="ITV3" tvg-name="ITV 3" tvg-logo="https://iili.io/Fz1VDIn.png" group-title="UK Entertainment",ITV 3
-https://cachehsi1a.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+#EXTINF:-1 tvg-id="Discovery_Life" tvg-logo="https://iili.io/FtPtQXs.png" group-title="Education",Discovery Life
+http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-id="ITV4" tvg-name="ITV 4" tvg-logo="https://iili.io/Fz1VZmX.png" group-title="UK Entertainment",ITV 4
-https://cachehsi1a.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+#EXTINF:-1 tvg-id="Travel_Channel" tvg-logo="https://iili.io/FtPbhDF.png" group-title="Travel",Travel Channel
+http://fl1.moveonjoy.com/Travel_Channel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TravelXP" tvg-logo="https://iili.io/Fti9cmB.png" group-title="Travel",TravelXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="BBC_EARTH" tvg-logo="https://iili.io/FtiJgR4.png" group-title="Documentary",BBC Earth
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO_Comedy" tvg-logo="https://iili.io/FtiFLTx.png" group-title="Entertainment",HBO Comedy
+http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO_Family" tvg-logo="https://iili.io/FtiFipj.png" group-title="Entertainment",HBO Family
+http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://iili.io/FtiFZQV.png" group-title="Entertainment",HBO
+http://fl3.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO_Zone" tvg-logo="https://iili.io/Ftiofnf.png" group-title="Entertainment",HBO Zone
+http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC_Network" tvg-logo="https://iili.io/FtiRyp2.png" group-title="Entertainment",AMC Network
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="FX_Movie" tvg-logo="https://iili.io/FtiYTga.png" group-title="Entertainment",FX Movie
+http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz" tvg-logo="https://iili.io/FticIHJ.png" group-title="Entertainment",Starz
+http://fl3.moveonjoy.com/STARZ/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://iili.io/Ftilg7s.png" group-title="Entertainment",Cinemax
+http://fl3.moveonjoy.com/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports" tvg-logo="https://iili.io/FtiEfea.png" group-title="Sports",Star Sports
+https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Sky_Sports_Cricket" tvg-logo="https://iili.io/FtiV7mg.png" group-title="Sports",Sky Sports Cricket
+http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8
+
+#EXTINF:-1 tvg-id="Food_Network" tvg-logo="https://iili.io/FtiX3Ne.png" group-title="Lifestyle",Food Network
+http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
