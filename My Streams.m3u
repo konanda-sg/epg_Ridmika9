@@ -295,3 +295,6 @@ http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8
 
 #EXTINF:-1 tvg-id="Food_Network" tvg-logo="https://iili.io/FtiX3Ne.png" group-title="Lifestyle",Food Network
 http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="CustomChannel" tvg-name="My Channel" tvg-logo="https://iili.io/FtPZo6Q.png" catchup="shift" catchup-days="3" catchup-source="http://sup-4k.org/play/live.php?mac=00:1A:79:59:14:26&stream=11188&extension=ts&play_token=5e0oyqDUVC&utc={utc}&lutc={lutc}",Discovery
+http://sup-4k.org/play/live.php?mac=00:1A:79:59:14:26&stream=11188&extension=ts&play_token=5e0oyqDUVC
