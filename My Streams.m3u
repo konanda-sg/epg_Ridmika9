@@ -137,49 +137,49 @@ http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
-#EXTINF:-1 tvg-id="403626" tvg-name="USA Network" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://i.ibb.co/WWVXFMNx/usa-us.png",USA Network (East)
+#EXTINF:-1 tvg-id="465006" tvg-name="USA Network" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://i.ibb.co/WWVXFMNx/usa-us.png",USA Network (East)
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(usa-east)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
-#EXTINF:-1 tvg-id="403626" tvg-name="USA Network" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://i.ibb.co/WWVXFMNx/usa-us.png",USA Network (West)
+#EXTINF:-1 tvg-id="465006" tvg-name="USA Network" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://i.ibb.co/WWVXFMNx/usa-us.png",USA Network (West)
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="405049" tvg-logo="https://iili.io/3DPin4a.png" group-title="HD SPORTS",TSN 1
+#EXTINF:-1 tvg-id="470446" tvg-logo="https://iili.io/3DPin4a.png" group-title="HD SPORTS",TSN 1
 https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="404833" tvg-logo="https://iili.io/3DPsaDB.png" group-title="HD SPORTS",TSN 2
+#EXTINF:-1 tvg-id="470550" tvg-logo="https://iili.io/3DPsaDB.png" group-title="HD SPORTS",TSN 2
 https://abm5x5xaaaaaaaampie4zrlukq55o.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J5aV6+D7G8V4dCK2tZzoqA", "kid":"2Ql6G30Et3hrKfKw4VUxbQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="405060" tvg-name="TSN 3" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/3OfHC37.png",TSN 3
+#EXTINF:-1 tvg-id="470888" tvg-name="TSN 3" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/3OfHC37.png",TSN 3
 https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Mbse6ajQiPYrAQNVDDAUSQ", "kid":"4apMTa9iIqBPeugBMEleoQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="405134" tvg-name="TSN 3" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/3DPs7AQ.png",TSN 4
+#EXTINF:-1 tvg-id="470730" tvg-name="TSN 3" group-title="HD SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/3DPs7AQ.png",TSN 4
 https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="405079" tvg-logo="https://iili.io/3DPsloP.png" group-title="HD SPORTS",TSN 5
+#EXTINF:-1 tvg-id="470390" tvg-logo="https://iili.io/3DPsloP.png" group-title="HD SPORTS",TSN 5
 https://abm5x5xaaaaaaaamjwfbpek7fak66.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -208,7 +208,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KWCtSja.png" group-title="HD SPORTS",Premier League TV
+#EXTINF:-1 tvg-id="453374" tvg-logo="https://iili.io/KWCtSja.png" group-title="HD SPORTS",Premier League TV
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -236,14 +236,14 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KWnBoiB.png" group-title="HD SPORTS",Premier Sports 1
+#EXTINF:-1 tvg-id="219104" tvg-logo="https://iili.io/KWnBoiB.png" group-title="HD SPORTS",Premier Sports 1
 https://abizzcbaaaaaaaamlniubkrls2bb7.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KWnCF1I.png" group-title="HD SPORTS",Premier Sports 2
+#EXTINF:-1 tvg-id="219104" tvg-logo="https://iili.io/KWnCF1I.png" group-title="HD SPORTS",Premier Sports 2
 https://abizzcbaaaaaaaaml3dau5ew7oiof.otte.live.cf.ww.aiv-cdn.net/fra-nitro/live/dash/enc/w34nznx0bz/out/v1/1c6639b9af994c75847def2249302066/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -342,6 +342,7 @@ http://sup-4k.org/play/live.php?mac=00:1A:79:59:14:26&stream=223402&extension=ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/FDNYv5B.png" group-title="NEW",Sky Sports Football
 http://sup-4k.org/play/live.php?mac=00:1A:79:59:14:26&stream=10516&extension=ts&play_token=JoNfkFoUv1
+
 
 
 
