@@ -276,6 +276,13 @@ https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://iili.io/K8gPQmg.png" group-title="HD SPORTS",FOX 501 HD
+https://aus.livecricketsl.live/proxy/get.php/https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec2147a4b9b1b87ee3d8dc6915bc7928:c84fcd82767a9cd9e2e0c0d1b47a72c5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/FfrCHqN.png" group-title="HD SPORTS",Prime TV
@@ -342,6 +349,7 @@ http://sup-4k.org/play/live.php?mac=00:1A:79:59:14:26&stream=223402&extension=ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/FDNYv5B.png" group-title="NEW",Sky Sports Football
 http://sup-4k.org/play/live.php?mac=00:1A:79:59:14:26&stream=10516&extension=ts&play_token=JoNfkFoUv1
+
 
 
 
