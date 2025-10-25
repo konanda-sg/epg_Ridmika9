@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Ridmika9/epg-merge-new/refs/heads/main/epg.xml" refresh="1440"
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -97,7 +97,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="AstroGO | SPORTS" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nz0AP.png",Astro Cricket 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-#EXTM3U
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -196,7 +195,6 @@ https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #EXTINF:-1 tvg-logo="https://iili.io/3OfBrVn.png" group-title="HD SPORTS",Fubo Sports 2
 https://abm5x5xaaaaaaaamcqsg3izt3pszd.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-#EXTM3U
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
@@ -312,6 +310,7 @@ http://sup-4k.org/play/live.php?mac=00:1A:79:59:14:26&stream=223402&extension=ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/FDNYv5B.png" group-title="NEW",Sky Sports Football
 http://sup-4k.org/play/live.php?mac=00:1A:79:59:14:26&stream=10516&extension=ts&play_token=JoNfkFoUv1
+
 
 
 
