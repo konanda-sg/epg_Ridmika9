@@ -307,22 +307,22 @@ https://hls.livecricketsl.xyz/aus/get.php/https://linearjitp-playback.astro.com.
 #EXTINF:-1 tvg-logo="https://iili.io/KbJE8hB.png" group-title="HD SPORTS",FOX 501 HD
 https://hls.livecricketsl.xyz/aus/web.php/https://mpdchecker.updatesbyrahul.site/foxtel.php/c1566607e84d4dd0bc7e53bc26943d14/index.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/KbJy77S.png" group-title="HD SPORTS",Sky Sports NZ 1
+#EXTINF:-1 tvg-logo="https://iili.io/KbJy77S.png" group-title="SKY",Sky Sports NZ 1
 https://topstream.space/daddy/stream.php?id=588&srv=1&format=.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/Kbd3hYv.png" group-title="HD SPORTS",Sky Sports NZ 2
+#EXTINF:-1 tvg-logo="https://iili.io/Kbd3hYv.png" group-title="SKY",Sky Sports NZ 2
 https://topstream.space/daddy/stream.php?id=589&srv=1&format=.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/KbJoon2.png" group-title="HD SPORTS",Sky Sports NZ 3
+#EXTINF:-1 tvg-logo="https://iili.io/KbJoon2.png" group-title="SKY",Sky Sports NZ 3
 https://storage.googleapis.com/ujhjlotrdfas4/mux_video_ts/index-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/KbdFtNp.png" group-title="HD SPORTS",Sky Sports NZ 4
+#EXTINF:-1 tvg-logo="https://iili.io/KbdFtNp.png" group-title="SKY",Sky Sports NZ 4
 https://topstream.space/daddy/stream.php?id=591&srv=1&format=.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/KbdfMG9.png" group-title="HD SPORTS",Sky Sports NZ 5
+#EXTINF:-1 tvg-logo="https://iili.io/KbdfMG9.png" group-title="SKY",Sky Sports NZ 5
 https://topstream.space/daddy/stream.php?id=592&srv=1&format=.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/KbJzAIj.png" group-title="HD SPORTS",Sky Sports NZ 8
+#EXTINF:-1 tvg-logo="https://iili.io/KbJzAIj.png" group-title="SKY",Sky Sports NZ 8
 https://topstream.space/daddy/stream.php?id=595&srv=1&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/FDNJXMG.png" group-title="NEW",Animal Planet
@@ -342,6 +342,7 @@ http://sup-4k.org/play/live.php?mac=00:1A:79:59:14:26&stream=223402&extension=ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/FDNYv5B.png" group-title="NEW",Sky Sports Football
 http://sup-4k.org/play/live.php?mac=00:1A:79:59:14:26&stream=10516&extension=ts&play_token=JoNfkFoUv1
+
 
 
 
