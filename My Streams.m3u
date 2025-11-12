@@ -305,7 +305,7 @@ https://hls.livecricketsl.xyz/aus/get.php/https://linearjitp-playback.astro.com.
 #KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/KbJy77S.png" group-title="HD SPORTS",Sky Sports NZ 1
-https://dice-live-oc.akamaized.net/hdntl=exp=1762884041~acl=%2f*~id=b02f1c21-54ce-496f-8804-2be6c873e67a~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTI0LjI0OC4xNDIuMTUmZXhwPTE3NjI4ODQwNzEmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=6d9d890c80e54aa480b3c1b9a2f8c14debe3854f804827c32339b160070a49ba/dash/live/2093724/219026-308528/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1762972268~acl=%2f*~id=a68d61c1-c369-490f-b759-0eeaef423e26~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTYxLjY1LjIwMy4xMjEmZXhwPTE3NjI5NzIyOTgmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=601972d2f268bbfb7989e0df9aa826942592b976dfba0d9bb260a8ca310c5d99/dash/live/2093724/219026-308528/manifest-d.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -383,6 +383,7 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1762884136~acl=%2f*~id=2e1d46a7-9fc
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/KmUO5il.png" group-title="HD SPORTS",ESPN 2
 https://dice-live-oc.akamaized.net/hdntl=exp=1762884145~acl=%2f*~id=3492d64f-2888-4bdf-b0a9-c8708ad7c1ed~data=hdntl,dWlkPXNWa2pnc3w2ZjZmZTIwMS02NWUyLTRmNWMtOWY3OC01MTBlNDU0NzY0YWUmaXA9MTI0LjI0OC4xNDIuMTUmZXhwPTE3NjI4ODQxNzQmZWlkPTIxOTAzOSZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=84be81f037ce2afaa4f7dd50a3dccc7b550a45166f7247cdcfaf7d4026b6ae0c/dash/live/2093714/219039-308446/manifest-d.mpd
+
 
 
 
