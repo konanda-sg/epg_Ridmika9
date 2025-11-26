@@ -381,13 +381,14 @@ https://watch.livecricketsl.xyz/proxy/skynz.php/index.mpd?id=219037
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KmUjH9s.png" group-title="HD SPORTS",ESPN
+#EXTINF:-1 tvg-id=ESPN.nz tvg-logo="https://iili.io/KmUjH9s.png" group-title="HD SPORTS",ESPN
 https://watch.livecricketsl.xyz/proxy/skynz.php/index.mpd?id=219038
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KmUO5il.png" group-title="HD SPORTS",ESPN 2
+#EXTINF:-1 tvg-id=ESPN2.nz tvg-logo="https://iili.io/KmUO5il.png" group-title="HD SPORTS",ESPN 2
 https://watch.livecricketsl.xyz/proxy/skynz.php/index.mpd?id=219039
+
 
