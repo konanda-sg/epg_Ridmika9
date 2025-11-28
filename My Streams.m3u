@@ -199,7 +199,7 @@ https://abm5x5xaaaaaaaamcqsg3izt3pszd.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KWCPXBS.png" group-title="HD SPORTS",UFC +
+#EXTINF:-1 tvg-id="UFC.us" tvg-logo="https://iili.io/KWCPXBS.png" group-title="HD SPORTS",UFC +
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd|
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -390,5 +390,6 @@ https://watch.livecricketsl.xyz/proxy/skynz.php/index.mpd?id=219038
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id=ESPN2.nz tvg-logo="https://iili.io/KmUO5il.png" group-title="HD SPORTS",ESPN 2
 https://watch.livecricketsl.xyz/proxy/skynz.php/index.mpd?id=219039
+
 
 
