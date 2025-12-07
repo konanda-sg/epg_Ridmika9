@@ -302,10 +302,10 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=581698bd7d049a4877227553e2902410:e39e223d3679e533b8144a6241f794ba
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-logo="https://iili.io/KbJ51YN.png" group-title="HD SPORTS",Astro Cricket HD
-https://hls.livecricketsl.xyz/aus/get.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5117/default_primary.mpd
+https://xg.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -390,6 +390,7 @@ https://watch.livecricketsl.xyz/proxy/skynz.php/index.mpd?id=219038
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTINF:-1 tvg-id=ESPN2.nz tvg-logo="https://iili.io/KmUO5il.png" group-title="HD SPORTS",ESPN 2
 https://watch.livecricketsl.xyz/proxy/skynz.php/index.mpd?id=219039
+
 
 
 
